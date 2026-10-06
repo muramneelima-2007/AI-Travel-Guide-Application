@@ -9,7 +9,7 @@ The application uses **Google Gemini** to generate AI-based travel descriptions 
 ## 🌐 Live Demo
 
 🔗 **Live Application:**  
-https://ai-travel-guide-application-1.onrender.com
+https://ai-travel-guide-frontend-cty8.onrender.com/
 
 🔗 **GitHub Repository:**  
 https://github.com/muramneelima-2007/AI-Travel-Guide-Application
